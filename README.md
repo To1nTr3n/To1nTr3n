@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning university
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about data analysic-python, sql server
-- ⚡ Fun fact: I'm just a tiny seed in the desert
--->
+- ⚡ Fun fact: I'm just a tiny sand in the desert
+-->  Dare not make an issue.
