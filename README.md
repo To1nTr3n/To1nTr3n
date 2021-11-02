@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm passionate about Data Science (DS), Machine Learning abd AI
+- 🔭 I'm passionate about Data Science (DS), Machine Learning and AI
 - 🔭 I’m currently working on freelance and teaching assistant at my University
 - 🌱 I’m currently learning university
 - 🤔 I’m looking for help with ...
