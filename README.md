@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-<!--
-**To1nTr3n/To1nTr3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on freelance
+- 🔭 I’m currently working on freelance and teaching assistant at my University
 - 🌱 I’m currently learning university
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
