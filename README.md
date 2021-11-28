@@ -16,4 +16,4 @@
 ---
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameTo1nTr3n&layout=compact&langs_count=8)](https://github.com/To1nTr3n)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=To1nTr3n&layout=compact&langs_count=8)](https://github.com/To1nTr3n)
