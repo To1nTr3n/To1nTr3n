@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I'm just a tiny sand in the desert
 -->  Dare not make an issue.
 
-**SOMETHING I CAN DO**
 *** 
+**SOMETHING I CAN DO**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=To1nTr3n&show_icons=true&theme=dracula)
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=To1nTr3n&layout=compact&langs_count=8)](https://github.com/To1nTr3n)
